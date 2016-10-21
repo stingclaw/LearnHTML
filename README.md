@@ -1,2 +1,2 @@
 # LearnHTML
-RPi Debian HTML Teaching Package
+Web programming teaching tool
